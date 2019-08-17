@@ -1,0 +1,394 @@
+{
+  "murad" : {
+    "events": [
+      {
+        "time": "1300",
+        "text": "Free Knowledge and the Sustainable Development Goals – Spotlight Session"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Continued : Free Knowledge and the Sustainable Development Goals – Spotlight Session"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "arnold" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Free Knowledge and the Sustainable Development Goals – Spotlight Session"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Continued: Free Knowledge and the Sustainable Development Goals – Spotlight Session"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "curie" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Tutorial: Discovering and Analyzing Wikimedia Images"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Tutorial: Testing ideas for flourishing communities: Imagining practical & ethical A/B tests"
+      },
+      {
+        "time": "1630",
+        "text": "Closed"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "karman" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Capacity Building"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Diversity"
+      },
+      {
+        "time": "1630",
+        "text": "Wrap-up"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "yousafzai" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Intro to the Education Space: Wikimedia & SDG 4"
+      },
+      {
+        "time": "1345",
+        "text": "Keynote I: EDUWiki & OERs + discussion on OERs and their place in the Wikiverse"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Keynote II: EDUWiki & Researchers - Engaging researchers to contribute to Wikipedia"
+      },
+      {
+        "time": "1530",
+        "text": "Enhancing Students' Learning through EDUWiki Initiatives."
+      },
+      {
+        "time": "1615",
+        "text": "Advancing Minority Languages through Wikimedia projects in Educational Settings"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "montalcini" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Introductory panel to the Growth Space: Challenges and approaches to Community Growth"
+      },
+      {
+        "time": "1330",
+        "text": "What we know about newcomers and how to nurture them"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Building organizations for growth: Wikidata in India, Wikimedia Armenia, Wiki Women for Women Wellbeing, and Wikimedia Sweden"
+      },
+      {
+        "time": "1630",
+        "text": "Events? Competitions? Engagement? CentralNotice is your friend"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "szymborska" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Let's completely change how wiki links work"
+      },
+      {
+        "time": "1330",
+        "text": "URL shortener: How something so simple can be so complicated"
+      },
+      {
+        "time": "1400",
+        "text": "GlobalFactSync"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "An introduction to Phabricator, where the developers are"
+      },
+      {
+        "time": "1600",
+        "text": "Phabricator for chapters"
+      },
+      {
+        "time": "1630",
+        "text": "Personalised search"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "maathai" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Strengthening Human Rights through Wikimedia"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "How to sustain your language online"
+      },
+      {
+        "time": "1530",
+        "text": "How can we more easily organize multi-chapter projects?"
+      },
+      {
+        "time": "1630",
+        "text": "Linking OpenStreetMap and Wikidata"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "strickland" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Building Technical Capacity in Smaller Wikis"
+      },
+      {
+        "time": "1400",
+        "text": "Let's completely change how templates work"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Libraries in Wikidata tutorial"
+      },
+      {
+        "time": "1630",
+        "text": "Closed"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "menchu" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "One World, One Wiki!"
+      },
+      {
+        "time": "1400",
+        "text": "Closed"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Make people care: using SDGs to talk about Free Knowledge"
+      },
+      {
+        "time": "1630",
+        "text": "Closed"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "tu" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Welcome to the Health Space"
+      },
+      {
+        "time": "1315",
+        "text": "Editing Wikipedia as a health expert - are the challenges simply academic"
+      },
+      {
+        "time": "1345",
+        "text": "Offline Health Resources - expanding content for Internet in a Box"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Offline in Senegal and Nigeria"
+      },
+      {
+        "time": "1530",
+        "text": "Expanding IIAB content"
+      },
+      {
+        "time": "1600",
+        "text": "Cochrane"
+      },
+      {
+        "time": "1630",
+        "text": "What happened this year with WPMed Foundation?"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "ostrom" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Everyone gets one - Wikibase and the Wikibase Ecosystem"
+      },
+      {
+        "time": "1400",
+        "text": "Ensuring visibility for your country's GLAM institutions on the Wikimedia projects"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Open Data Partnerships"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "ebadi" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Behind the scenes of the Odia Wikipedia how-to video tutorials"
+      },
+      {
+        "time": "1330",
+        "text": "Challenges when going on photo walks"
+      },
+      {
+        "time": "1330",
+        "text": "360° photography"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "Wiki loves Monuments: Case studies and workshop"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  },
+  "lessing" : {
+    "events" : [
+      {
+        "time": "1300",
+        "text": "Introduction to the GLAM Space"
+      },
+      {
+        "time": "1330",
+        "text": "Mini Keynote: What we did when the National Museum in Brazil burned"
+      },
+      {
+        "time": "1400",
+        "text": "Mini Keynote: State of Wikidata in 2019"
+      },
+      {
+        "time": "1430",
+        "text": "BREAK"
+      },
+      {
+        "time": "1500",
+        "text": "The Smithsonian: A Partnership to Improve Gender Representation Online"
+      },
+      {
+        "time": "1545",
+        "text": "Structured Data on Wikimedia Commons for GLAM-Wiki"
+      },
+      {
+        "time": "1700",
+        "text": "Welcome reception at City Hall - Hosted by City of Stockholm"
+      }
+    ]
+  }
+}
