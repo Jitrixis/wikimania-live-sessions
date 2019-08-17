@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <style>
+        <!--
+        .main-header, .main-rooms {
+            padding: 1rem;
+        }
+        .date {
+            font-size: 2rem;
+        }
+        .hour {
+            font-size: 3rem;
+        }
+        .room {
+            padding-top: 1rem;
+        }
+        .room-title {
+            font-size : 1.4rem;
+        }
+        .room-now {
+            font-size : 1.2rem;
+        }
+        .room-upcomming {
+            font-size : 0.9rem;
+        }
+        #program-iframe {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            background-color: white;
+            z-index: 10000;
+        }
+        #program-iframe iframe {
+            width: 100%;
+            height: 100%;
+        }
+        #press-notice, #click-notice {
+            font-size: 1.2rem;
+            text-align: center;
+            padding-top: 1rem;
+        }
+        -->
+    </style>
+
+    <title>Wikimania Live</title>
+</head>
+<body>
+<div class="container-fluid main-header">
+    <div class="row">
+        <div class="col-sm text-left date">
+            Saturday 17, august 2019
+        </div>
+        <div class="col-sm text-center">
+            <h1><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Wikimania2019_logo.svg" height="80px" alt="Wikimania Stockholm"/></h1>
+        </div>
+        <div class="col-sm text-right hour" id="clock">
+            16:30
+        </div>
+    </div>
+</div>
+<div class="container-fluid main-rooms">
+    <div class="row" id="rooms-list-1">
+
+    </div>
+    <div class="row">
+        <div class="col-12 d-none d-sm-block"><p id="press-notice">Press any key to see the full programm</p></div>
+        <div class="col-12 d-block d-sm-none"><p id="click-notice"><a href="https://wikimania.wikimedia.org/wiki/2019:Program#Saturday_17_August">Click here to see the full program</a></p></div>
+    </div>
+</div>
+
+
+<div id="program-iframe" style="display:none">
+<iframe></iframe>
+</div>
+
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+<!-- Optional JavaScript -->
+<script>
+
+    load();    
+
+    setInterval(function() {
+        load();
+    }, 10000);
+
+    setInterval(function() {
+        updateTime();
+    }, 100);
+
+    $("body").keydown(function (){
+	show();
+	setTimeout(function (){hide()}, 30000);
+    });
+
+    (function blink() { 
+        $('#press-notice').fadeOut(1000).fadeIn(1000, blink); 
+    })();
+
+    function show(){
+        $("#program-iframe iframe").attr('src', 'https://wikimania.wikimedia.org/wiki/2019:Program#Saturday_17_August');
+        $("#program-iframe").show();
+    }
+
+    function hide(){
+	$("#program-iframe").hide();
+    }
+
+    function load(){
+        $.get("current.json", function(d){
+            d.forEach(function (e) {
+                parse(e);
+            });
+        });
+    }
+
+    function updateTime() {
+        var hours = new Date().getHours();
+        hours = ((hours < 10)?"0":"") + hours;
+        var minutes = new Date().getMinutes();
+        minutes = ((minutes < 10)?"0":"") + minutes;
+        $("#clock").text(hours + ':' + minutes)
+    }
+
+    function isExist(name){
+        return $("#room-" + name).length === 1;
+    }
+
+    function create(name, data){
+        var e = $("#rooms-list-1");
+        var tmp = '<div class="col-12 col-md-3 room" id="room-' + name + '">\n' +
+            '            <div class="card">\n' +
+            '                <div class="card-header text-center">\n' +
+            '                    <stong class="room-title">\n' +
+            '                        <img src="' + data.icon + '" height="20px"/> ' + data.building + ' - <strong>' + data.room  + '</strong>\n' +
+            '                    </stong>\n' +
+            '                </div>\n' +
+            '                <div class="card-body">\n' +
+            '                    <div class="card-text">\n' +
+            '                        <p class="room-now"><span class="badge badge-danger">LIVE</span> <strong><span class="now-text">' + data.now.text + '</span></strong></p>\n' +
+            '                        <p class="room-upcomming"><span class="badge badge-secondary"><span class="upcomming-time">' + data.upcomming.time + '</span></span> <span class="upcomming-text">' + data.upcomming.text + '</span></p>\n' +
+            '                    </div>\n' +
+            '                </div>\n' +
+            '            </div>\n' +
+            '        </div>';
+        $(e).append(tmp);
+    }
+
+    function need(name, zone, text) {
+        return ($("#room-" + name + " ." + zone).text()) !== text;
+    }
+
+    function update(name, zone, text) {
+        $("#room-" + name + " ." + zone).fadeOut(500, function() {
+            $("#room-" + name + " ." + zone).text(text).fadeIn(500);
+        });
+    }
+
+    function parse(data){
+        var name = data.id;
+        if(!isExist(name)){
+            create(name, data);
+        }else{
+            if(need(name, 'now-text', data.now.text)){
+                update(name, 'now-text', data.now.text);
+            }
+            if(need(name, 'upcomming-time', data.upcomming.time)){
+                update(name, 'upcomming-time', data.upcomming.time);
+            }
+            if(need(name, 'upcomming-text', data.upcomming.text)){
+                update(name, 'upcomming-text', data.upcomming.text);
+            }
+        }
+    }
+</script>
+
+</body>
+</html>
