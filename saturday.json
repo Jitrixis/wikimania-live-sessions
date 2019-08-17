@@ -1,0 +1,818 @@
+{
+  "murad" : {
+    "events": [
+      {
+        "time": "1000",
+        "text": "Attribution - Laws and Norms within Open Communities and Communicating to the Public"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Creating visibility for the world’s cultural heritage institutions – what has been done and what is still left to do?"
+      },
+      {
+        "time": "1200",
+        "text": "Public Domain Awareness Project: enhancing use of CC’s Public Domain tools to serve the needs of GLAM institutions and reusers"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Closed"
+      },
+      {
+        "time": "1445",
+        "text": "The Equal Edit - a panel discussion on gender diversity"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Integrating Wikidata into Education"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "arnold" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "VideoWiki"
+      },
+      {
+        "time": "1015",
+        "text": "Closed"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Closed"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Closed"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Coolest Tool Award 2019"
+      },
+      {
+        "time": "1700",
+        "text": "Closed"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "gbowee" : {
+    "events": [
+      {
+        "time": "0930",
+        "text": "Welcome to \"Thriving in Safety\""
+      },
+      {
+        "time": "1000",
+        "text": "Universal Code of Conduct"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Mental Health a case study for the Wikimedia Movement"
+      },
+      {
+        "time": "1215",
+        "text": "Redefining Safety: Addressing the unregistered concerns"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Addressing The Safety Needs: Collaborative Solutions For Mitigating Risks"
+      },
+      {
+        "time": "1445",
+        "text": "Do we need a global dispute resolution committee?"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "When a policy is not enough: Addressing harassment in offline spaces"
+      },
+      {
+        "time": "1645",
+        "text": "Make conflict possible again!"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "curie" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "The Role of Wikimedia on the AI Ecosystem"
+      },
+      {
+        "time": "0950",
+        "text": "Supporting deliberation and resolution on Wikipedia"
+      },
+      {
+        "time": "1015",
+        "text": "All Talk? The effects of easier communication interfaces (than user talk pages) on collaborative production"
+      },
+      {
+        "time": "1040",
+        "text": "Hidden Gems in the Wikipedia Discussions: The Wikipedians’ Rationales"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Characterizing Reader Behavior on Wikipedia"
+      },
+      {
+        "time": "1150",
+        "text": "Characterizing Wikipedia Citation Usage"
+      },
+      {
+        "time": "1215",
+        "text": "Dwelling on Wikipedia: Investigating time spent by global encyclopedia readers"
+      },
+      {
+        "time": "1240",
+        "text": "Wikipedia graph mining: dynamic structure of collective memory"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Understanding content moderation on English Wikipedia"
+      },
+      {
+        "time": "1420",
+        "text": "Sockpuppet detection in the English Wikipedia"
+      },
+      {
+        "time": "1445",
+        "text": "Despite the ban: doing good work anonymously on Wikipedia"
+      },
+      {
+        "time": "1510",
+        "text": "Wiki-Atlas: Rendering Wikipedia Content through Cartographic and Augmented Reality Mediums"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Evidence of Dark Matter: Assessing the Contribution of Subject-matter Experts to Wikipedia"
+      },
+      {
+        "time": "1620",
+        "text": "Gender Equality in Wikipedia: What can we learn from Behavioral Economics?"
+      },
+      {
+        "time": "1645",
+        "text": "Research lightning talks"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "karman" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Roles & Responsibilities"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Advocacy"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Community Health"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Revenue Streams"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "yousafzai" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Scaling Wiki in Education: Overcoming Challenges & Growing"
+      },
+      {
+        "time": "1015",
+        "text": "Measuring Success: Planning outcomes for Wikimedia & Education projects"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Using Internet-in-a-box for Education"
+      },
+      {
+        "time": "1215",
+        "text": "EDUWiki & Medicine"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Education & Libraries: Opportunities Explored"
+      },
+      {
+        "time": "1445",
+        "text": "Wiktionary & Wikisource in EduWiki Initiatives: Challenges and Opportunities"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Closed"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "montalcini" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Campaigning for growth: Women in Red; WikiChallenge Ecoles d'Afrique; and Caucasian collaboration"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Onboarding and Retention: Hungarian and French Wikipedias"
+      },
+      {
+        "time": "1200",
+        "text": "Encouraging the spirit of new editors - A structured approach to mapping onboarding efforts"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Technology for Growth: future of mobile editing"
+      },
+      {
+        "time": "1500",
+        "text": "Technology for growth: tools and experiments from Scribe and CivilServant"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Lightning talks: growth ideas to take home"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "szymborska" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Tools for partnerships – developing the technology our partners need"
+      },
+      {
+        "time": "1030",
+        "text": "A new year of TechStorming"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Wikidata Problems: Workshop on obstacles to faster Wikidata acceptance and how to overcome them"
+      },
+      {
+        "time": "1230",
+        "text": "Evolving wikitext: embracing incrementalism"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Designing for Organizing in the Wikimedia Movement"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "After Flow: A new direction for improving talk pages"
+      },
+      {
+        "time": "1645",
+        "text": "A more flexible approach to blocking"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "maathai" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Closed"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Closed"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Closed"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "How to build regional partnerships between free knowledge organizations"
+      },
+      {
+        "time": "1645",
+        "text": "Closed"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "strickland" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Bringing Wikipedia Alive: Using animation for storytelling, a new way of preserving oral history"
+      },
+      {
+        "time": "1000",
+        "text": "Imagine a world in which every single person on the planet is given free access to the sum of all human knowledge. That's what we're doing. Except we’re not..."
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Wiki Loves campaigns: Past, Present & Future"
+      },
+      {
+        "time": "1200",
+        "text": "Wiki Loves campaigns: Past, Present & Future (continued)"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Lightning talks"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "WikiAfrica: Creating the Open Knowledge Curriculum"
+      },
+      {
+        "time": "1645",
+        "text": "Commons photographer's meetup"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "menchu" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "ConLangs in Wikimedia: From dreams to reality"
+      },
+      {
+        "time": "1000",
+        "text": "QUIPU: Quechua Language based Knowledge Graph"
+      },
+      {
+        "time": "1030",
+        "text": "The difficulties of Wikipedias in languages that are not taught in school"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Why indigenous languages matter more (now) and what we can do for them"
+      },
+      {
+        "time": "1215",
+        "text": "Australian Indigenous language on Wikipedia"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Wikidata in your language"
+      },
+      {
+        "time": "1430",
+        "text": "Wikidata Infoboxes"
+      },
+      {
+        "time": "1500",
+        "text": "Wikidata lexemes"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "LinguaLibre"
+      },
+      {
+        "time": "1600",
+        "text": "Luganda Wikipedia"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "tu" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Open Data to tackle corruption in the Nordic-Baltic Region"
+      },
+      {
+        "time": "1015",
+        "text": "Closed"
+      },
+      {
+        "time": "1030",
+        "text": "Wikidata and Health: Current situation and perspectives"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "WikiJournal"
+      },
+      {
+        "time": "1200",
+        "text": "Wikipedian in Residence working with Health Technology Assessments"
+      },
+      {
+        "time": "1215",
+        "text": "Addressing knowledge equity in cultural heritage projects"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Strategy to improve public health content in Wikipedia"
+      },
+      {
+        "time": "1430",
+        "text": "A meta-search engine for science"
+      },
+      {
+        "time": "1500",
+        "text": "Improving discovery of medical journal articles"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "MEDRS - bulwark or barrier?"
+      },
+      {
+        "time": "1630",
+        "text": "Health efforts in India"
+      },
+      {
+        "time": "1700",
+        "text": "Discussion with the board of WikiProject Med Foundation"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "ostrom" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Big Open partnerships at national level"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Frameworks for Free Knowledge Partnerships"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Case studies of partnerships"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Reflections on partnerships:"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "ebadi" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "What we are advocating for and why"
+      },
+      {
+        "time": "1000",
+        "text": "Internet is for the people - the future we want"
+      },
+      {
+        "time": "1030",
+        "text": "Shrinking Spaces for Civil Society on the Web: Wikipedia blocks in Turkey and China"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Defending heritage through free knowledge: the importance of Wikimedia projects against cultural predation"
+      },
+      {
+        "time": "1200",
+        "text": "Digital Security 101"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Advocacy Lightning Talks"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Rethinking public sector data ecosystems - Open Government Data, Semantic MediaWiki and Wikidata"
+      },
+      {
+        "time": "1630",
+        "text": "Wiki- ... who? Brands, Titles and Representation in policy matters"
+      },
+      {
+        "time": "1700",
+        "text": "EU Copyright Directive Transposition Bootshop"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "lessing" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Let's Talk about Campaigns and Contests"
+      },
+      {
+        "time": "1000",
+        "text": "Mapping the gender gap: Testimonies from the Indian Wikimedia community"
+      },
+      {
+        "time": "1030",
+        "text": "Bridging the gender gap with Wiki Loves Campaigns"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "Interwiki Women Collaboration, a cross-wiki global campaign"
+      },
+      {
+        "time": "1200",
+        "text": "AfroCROWD at the United Nations and in the International Community"
+      },
+      {
+        "time": "1230",
+        "text": "The gender gap and me"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "Experience makes the difference in improving gender equality in Wikipedia"
+      },
+      {
+        "time": "1500",
+        "text": "Diversity and sources"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Lightning talks"
+      },
+      {
+        "time": "1700",
+        "text": "Integrating Wiki-Menstruation to Achieve the SDGs"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  },
+  "alexievich" : {
+    "events" : [
+      {
+        "time": "0930",
+        "text": "Wikidata for Wikimedia Commons users, Wikidata for beginners && The process of upload, disseminate and report a GLAM and how wikidatifying it improves it: a Brazilian experience"
+      },
+      {
+        "time": "1015",
+        "text": "Wikidata for Wikimedia Commons users, Wikidata for beginners && Why do museums decide to open up their collections?"
+      },
+      {
+        "time": "1100",
+        "text": "BREAK"
+      },
+      {
+        "time": "1130",
+        "text": "How to engage Wikimedia community and GLAM: Russian experience"
+      },
+      {
+        "time": "1215",
+        "text": "Bootstrapping the Worldwide Inventory of Heritage Institutions"
+      },
+      {
+        "time": "1300",
+        "text": "LUNCH"
+      },
+      {
+        "time": "1400",
+        "text": "From a messy spreadsheet to Wikidata: start mass data uploads with OpenRefine && Serbian Ministry of Culture supporting GLAM"
+      },
+      {
+        "time": "1445",
+        "text": "From a messy spreadsheet to Wikidata: start mass data uploads with OpenRefine && Black Face: Strategies for missing images from art biographies and the ethics of WikiCommons"
+      },
+      {
+        "time": "1530",
+        "text": "BREAK"
+      },
+      {
+        "time": "1600",
+        "text": "Lightning talks && The Met Museum and New Frontiers in Wikidata engagement"
+      },
+      {
+        "time": "1630",
+        "text": "Lightning talks && Institutional ingestion of Wikimedia Data: Trust, Tooling and Expectations"
+      },
+      {
+        "time": "1730",
+        "text": "BBQ"
+      }
+    ]
+  }
+}
