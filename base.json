@@ -1,0 +1,130 @@
+[
+  {
+    "id": "murad",
+    "building": "Aula Magna",
+    "room" : "Murad",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wikimania2019_moose_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "arnold",
+    "building": "Aula Magna",
+    "room" : "Arnold",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wikimania2019_moose_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "gbowee",
+    "building": "Aula Magna",
+    "room" : "Gbowee",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wikimania2019_moose_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "curie",
+    "building": "Aula Magna",
+    "room" : "Curie",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wikimania2019_moose_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "karman",
+    "building": "Aula Magna",
+    "room" : "Karman",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wikimania2019_moose_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "yousafzai",
+    "building": "Allhuset",
+    "room" : "Yousafzai",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/c8/Wikimania2019_heart_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "montalcini",
+    "building": "Juristernas hus",
+    "room" : "Montalcini",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/3/3e/Wikimania2019_dove_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "szymborska",
+    "building": "Södra Huset",
+    "room" : "Szymborska",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "maathai",
+    "building": "Södra Huset",
+    "room" : "Maathai",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "strickland",
+    "building": "Södra Huset",
+    "room" : "Strickland",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "menchu",
+    "building": "Södra Huset",
+    "room" : "Menchú",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "tu",
+    "building": "Södra Huset",
+    "room" : "Tu",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "ostrom",
+    "building": "Södra Huset",
+    "room" : "Ostrom",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "ebadi",
+    "building": "Södra Huset",
+    "room" : "Ebadi",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "lessing",
+    "building": "Södra Huset",
+    "room" : "Lessing",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  },
+  {
+    "id": "alexievich",
+    "building": "Södra Huset",
+    "room" : "Alexievich",
+    "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/cc/Wikimania2019_person_icon.svg",
+    "now" : {},
+    "upcomming" : {}
+  }
+]
